@@ -1,4 +1,4 @@
-﻿- [Brian Wong](https://github.com/b)
+﻿- [Brian Wong](https://github.com/brianw921)
 - [Franco Colman](https://github.com/colmanfranco)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
 - [Sukrit Walia](https://github.com/wukrit)
